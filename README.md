@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 你好，我是 [ShenEternity/沈之永恒]！
 
-<!--
-**ShenEternity/ShenEternity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/asbzyyds?style=social)](https://github.com/asbzyyds)
+ 
+🌱 我正在学习 **C/C++**  
+👯 我希望合作 **编程**  
+💬 可以问我关于 **C/C++**  
+📫 如何联系我：**QQ:3258551611**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🤝 联系我
+
+[![Blog](https://img.shields.io/badge/-个人博客-FF5722?style=flat&logo=blogger&logoColor=white)](https://asbzyyds.github.io/)
