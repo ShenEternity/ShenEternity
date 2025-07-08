@@ -1,6 +1,6 @@
 # 👋 你好，我是 [ShenEternity/沈之永恒]！
 
-[![GitHub followers](https://img.shields.io/github/followers/asbzyyds?style=social)](https://github.com/asbzyyds)
+[![GitHub followers](https://img.shields.io/github/followers/asbzyyds?style=social)](https://github.com/ShenEternity)
  
 🌱 我正在学习 **C/C++**  
 👯 我希望合作 **编程**  
