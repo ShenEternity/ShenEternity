@@ -2,9 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/asbzyyds?style=social)](https://github.com/ShenEternity)
  
-🌱 我正在学习 **C/C++**  
+🌱 我正在学习 **C/C++,Kotlin**  
 👯 我希望合作 **编程**  
-💬 可以问我关于 **C/C++**  
+💬 可以问我关于 **C/C++,Kotlin**  
 📫 如何联系我：**QQ:3258551611**  
 
 
